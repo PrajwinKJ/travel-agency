@@ -62,11 +62,11 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="text-primary shrink-0 mt-1" size={20} />
-                <span>123 Travel Boulevard, City Center, New York, NY 10001</span>
+                <span>Irinjalakuda, Thrissur, Kerala 680121, India</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="text-primary shrink-0" size={20} />
-                <span>+1 (800) 123-4567</span>
+                <span>+91 9876543210</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="text-primary shrink-0" size={20} />
