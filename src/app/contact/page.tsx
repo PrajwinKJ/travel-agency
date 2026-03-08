@@ -91,7 +91,7 @@ export default function ContactPage() {
                  <div className="relative z-10 bg-white p-6 rounded-2xl shadow-xl flex flex-col items-center max-w-[250px] text-center">
                     <MapPin className="text-primary mb-3" size={32} />
                     <h3 className="font-bold text-lg text-slate-900">Wanderlust HQ</h3>
-                    <p className="text-sm font-medium mt-1">123 Travel Boulevard, NY</p>
+                    <p className="text-sm font-medium mt-1">Irinjalakuda<br />Thrissur, Kerala 680121, India</p>
                  </div>
                </div>
             </div>
